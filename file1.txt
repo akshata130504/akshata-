@@ -1,0 +1,4 @@
+Dual mode operation allows os to protect itself and other system components.
+User mode and kernel mode are two types of dual mode operation.
+Kernel mode is also called as supervisory mode ,system mode.
+It is possible to perform different tasks on the behalf of operating system.
